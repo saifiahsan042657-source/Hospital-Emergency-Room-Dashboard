@@ -53,4 +53,4 @@ The objective of this dashboard is to provide hospital management with actionabl
 ## 👤 Author
 **Ahsan Saifi**
 
-Aspiring Data Analyst passionate about transforming data into meaningful business insights.
+Aspiring Data Analyst skilled in Excel, SQL, Power BI and Data Visualization. Passionate about transforming raw data into actionable business insights.
