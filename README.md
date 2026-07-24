@@ -48,8 +48,6 @@ The objective of this dashboard is to provide hospital management with actionabl
 
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
-
 ![Hospital Emergency Room Dashboard](Hospital%20Dashboard%20Final.jpg)
 
 ## 👤 Author
